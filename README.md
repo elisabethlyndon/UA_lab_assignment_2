@@ -1,4 +1,5 @@
 # Module GG4257 (Creating Sustainable Cities with Spatial Data Science) Lab Assignment 2
+
 **Content:** This repo contains the jupyter notebooks and relevant data for completing Lab Assignment 2 - which includes the challenges from the lab workbooks 4,5 and 6.
 
 - [MainPage - Report](MainPage.ipynb) -> Assignment cover page which includes an introductiona and final remarks section
