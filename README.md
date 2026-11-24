@@ -3,9 +3,9 @@
 **Content:** This repo contains the jupyter notebooks and relevant data for completing Lab Assignment 2 - which includes the challenges from the lab workbooks 4,5 and 6.
 
 - [MainPage - Report](MainPage.ipynb) -> Assignment cover page which includes an introductiona and final remarks section
-- [lab_4_challenges] -> Challenges from lab workbook 4: UA_LabWorkBook_4, focuses on Making Maps - Four challenges focusing on geographical mapping and visualisation
-- [lab_5_challenges] -> Challenges from lab workbook 5: UA_LabWorkbook_5, focuses on Growth And Accessibility - Nine challenges involving spatial data, network analysis and accessibility methods
-- [lab_6_challenges_1-6](lab_5/Challenges_1-6/lab_5_challenges.ipynb) and [Lab_6_Challenge_7](lab_5/Challenge_7/lab_5_challenge_7.ipynb) -> Challenges from lab workbook 6: UA_LabWorkbook_6, focuses on Geodemographics - Classification of Bristol's 2021 Census Output Areas using k-means clustering, PCA and mapping
+- [lab_4_challenges](lab_4/lab_4_challenges.ipynb) -> Challenges from lab workbook 4: UA_LabWorkBook_4, focuses on Making Maps - Four challenges focusing on geographical mapping and visualisation
+- [lab_5_challenges_1-6](lab_5/Challenges_1-6/lab_5_challenges.ipynb) and [Lab_5_Challenge_7](lab_5/Challenge_7/lab_5_challenge_7.ipynb)  -> Challenges from lab workbook 5: UA_LabWorkbook_5, focuses on Growth And Accessibility -  challenges involving spatial data, network analysis and accessibility methods
+- [lab_6_challenges](lab_6/lab_6_challenges.ipynb) -> Challenges from lab workbook 6: UA_LabWorkbook_6, focuses on Geodemographics - Classification of Bristol's 2021 Census Output Areas using k-means clustering, PCA and mapping
 - [IRP Proposal Slides](230005735_IRP_slides.pdf)— Independent Research Project proposal slide (PDF)
 
 **Notes for reproducability:**
